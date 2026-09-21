@@ -1,0 +1,416 @@
+﻿Expense ID,Date,Department,Category,Description,Amount (INR),Payment Method,Approved,Budget Allocated,Budget Remaining,Vendor Name,Invoice Number,Month
+EXP-5001,2025-01-25 00:00:00,Engineering,Software,Software expense - Engineering,7099,Cash,Yes,8386,1287,PrintZone,INV-46989,Jan
+EXP-5002,2025-01-20 00:00:00,Engineering,Marketing,Marketing expense - Engineering,37909,Credit Card,Yes,39147,1238,PrintZone,INV-82311,Jan
+EXP-5003,2025-01-08 00:00:00,Engineering,Office Supplies,Office Supplies expense - Engineering,5729,Cash,Yes,8391,2662,AdPro Media,INV-84029,Jan
+EXP-5004,2025-01-03 00:00:00,Marketing,Consulting,Consulting expense - Marketing,21974,Cash,Yes,22502,528,PowerGrid Co,INV-47015,Jan
+EXP-5005,2025-01-25 00:00:00,Marketing,Equipment,Equipment expense - Marketing,70564,Cheque,Yes,77440,6876,CloudSoft,INV-98432,Jan
+EXP-5006,2025-01-24 00:00:00,Marketing,Software,Software expense - Marketing,23713,Credit Card,No,28542,4829,CloudSoft,INV-13104,Jan
+EXP-5007,2025-01-28 00:00:00,Sales,Equipment,Equipment expense - Sales,67515,Credit Card,Yes,87309,19794,CloudSoft,INV-29862,Jan
+EXP-5008,2025-01-03 00:00:00,Sales,Consulting,Consulting expense - Sales,30644,Bank Transfer,Yes,44207,13563,CloudSoft,INV-31108,Jan
+EXP-5009,2025-01-11 00:00:00,Sales,Utilities,Utilities expense - Sales,8331,Cash,Yes,11602,3271,AdPro Media,INV-66479,Jan
+EXP-5010,2025-01-20 00:00:00,Sales,Travel,Travel expense - Sales,55807,Credit Card,Yes,62479,6672,AdPro Media,INV-92285,Jan
+EXP-5011,2025-01-05 00:00:00,Sales,Consulting,Consulting expense - Sales,35534,Cash,No,49832,14298,QuickTravel,INV-75393,Jan
+EXP-5012,2025-01-10 00:00:00,Sales,Software,Software expense - Sales,31806,Bank Transfer,Yes,36795,4989,SkillUp Academy,INV-85564,Jan
+EXP-5013,2025-01-06 00:00:00,Sales,Utilities,Utilities expense - Sales,6789,Cheque,Yes,7092,303,Strategy Consultants,INV-43557,Jan
+EXP-5014,2025-01-16 00:00:00,HR,Marketing,Marketing expense - HR,42497,Credit Card,Yes,63144,20647,SkillUp Academy,INV-62551,Jan
+EXP-5015,2025-01-22 00:00:00,HR,Equipment,Equipment expense - HR,117328,Bank Transfer,Yes,153681,36353,PowerGrid Co,INV-77171,Jan
+EXP-5016,2025-01-14 00:00:00,HR,Utilities,Utilities expense - HR,7122,Cheque,Yes,7419,297,TechMart India,INV-91345,Jan
+EXP-5017,2025-01-18 00:00:00,HR,Travel,Travel expense - HR,37088,Credit Card,Yes,50064,12976,QuickTravel,INV-48097,Jan
+EXP-5018,2025-01-28 00:00:00,HR,Equipment,Equipment expense - HR,25736,Credit Card,Yes,33072,7336,HardwarePro,INV-70591,Jan
+EXP-5019,2025-01-21 00:00:00,HR,Software,Software expense - HR,24867,Cheque,Yes,30659,5792,QuickTravel,INV-33628,Jan
+EXP-5020,2025-01-07 00:00:00,Finance,Software,Software expense - Finance,28014,Cheque,Yes,38774,10760,QuickTravel,INV-51587,Jan
+EXP-5021,2025-01-23 00:00:00,Finance,Utilities,Utilities expense - Finance,10901,Cheque,Yes,13552,2651,SkillUp Academy,INV-69582,Jan
+EXP-5022,2025-01-16 00:00:00,Finance,Travel,Travel expense - Finance,76444,Bank Transfer,Yes,82397,5953,PowerGrid Co,INV-84475,Jan
+EXP-5023,2025-01-26 00:00:00,Finance,Travel,Travel expense - Finance,54844,Cash,Yes,56555,1711,Strategy Consultants,INV-37973,Jan
+EXP-5024,2025-01-25 00:00:00,Finance,Travel,Travel expense - Finance,32720,Cheque,Yes,46921,14201,SkillUp Academy,INV-93320,Jan
+EXP-5025,2025-01-09 00:00:00,Finance,Marketing,Marketing expense - Finance,31912,Cheque,Yes,34174,2262,SkillUp Academy,INV-69168,Jan
+EXP-5026,2025-01-09 00:00:00,Finance,Equipment,Equipment expense - Finance,73783,Bank Transfer,Yes,81682,7899,QuickTravel,INV-66168,Jan
+EXP-5027,2025-01-07 00:00:00,Finance,Utilities,Utilities expense - Finance,13340,Cash,Yes,15320,1980,Strategy Consultants,INV-72324,Jan
+EXP-5028,2025-01-23 00:00:00,Operations,Marketing,Marketing expense - Operations,124500,Cheque,Yes,146580,22080,GlobalTravel,INV-88266,Jan
+EXP-5029,2025-01-19 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,1137,Bank Transfer,Yes,1548,411,PowerGrid Co,INV-11859,Jan
+EXP-5030,2025-01-16 00:00:00,Operations,Marketing,Marketing expense - Operations,130234,Cash,Yes,191042,60808,HardwarePro,INV-44446,Jan
+EXP-5031,2025-01-28 00:00:00,Operations,Travel,Travel expense - Operations,64055,Bank Transfer,Yes,94267,30212,AdPro Media,INV-22772,Jan
+EXP-5032,2025-01-07 00:00:00,Operations,Travel,Travel expense - Operations,33655,Cheque,No,46203,12548,CloudSoft,INV-88766,Jan
+EXP-5033,2025-01-07 00:00:00,Operations,Equipment,Equipment expense - Operations,33329,Credit Card,Yes,39130,5801,PowerGrid Co,INV-12122,Jan
+EXP-5034,2025-01-28 00:00:00,Operations,Training,Training expense - Operations,13058,Credit Card,Yes,16336,3278,Strategy Consultants,INV-64270,Jan
+EXP-5035,2025-02-14 00:00:00,Engineering,Utilities,Utilities expense - Engineering,6770,Cash,Yes,9573,2803,CloudSoft,INV-70138,Feb
+EXP-5036,2025-02-20 00:00:00,Engineering,Equipment,Equipment expense - Engineering,53905,Bank Transfer,No,58673,4768,HardwarePro,INV-60012,Feb
+EXP-5037,2025-02-14 00:00:00,Engineering,Training,Training expense - Engineering,24613,Cash,No,33087,8474,QuickTravel,INV-21484,Feb
+EXP-5038,2025-02-20 00:00:00,Engineering,Software,Software expense - Engineering,7874,Cheque,Yes,10432,2558,Strategy Consultants,INV-91766,Feb
+EXP-5039,2025-02-19 00:00:00,Engineering,Software,Software expense - Engineering,43518,Credit Card,Yes,53181,9663,HardwarePro,INV-37770,Feb
+EXP-5040,2025-02-13 00:00:00,Engineering,Office Supplies,Office Supplies expense - Engineering,6864,Credit Card,Yes,8424,1560,Strategy Consultants,INV-26310,Feb
+EXP-5041,2025-02-21 00:00:00,Marketing,Consulting,Consulting expense - Marketing,118248,Cheque,Yes,171932,53684,PowerGrid Co,INV-39351,Feb
+EXP-5042,2025-02-09 00:00:00,Marketing,Training,Training expense - Marketing,11769,Cash,Yes,16945,5176,PrintZone,INV-10544,Feb
+EXP-5043,2025-02-05 00:00:00,Marketing,Equipment,Equipment expense - Marketing,9282,Cash,No,9354,72,AdPro Media,INV-51611,Feb
+EXP-5044,2025-02-14 00:00:00,Marketing,Utilities,Utilities expense - Marketing,3792,Bank Transfer,No,5611,1819,HardwarePro,INV-35252,Feb
+EXP-5045,2025-02-19 00:00:00,Marketing,Equipment,Equipment expense - Marketing,113599,Cheque,Yes,116529,2930,HardwarePro,INV-32769,Feb
+EXP-5046,2025-02-08 00:00:00,Sales,Utilities,Utilities expense - Sales,9475,Credit Card,Yes,10226,751,GlobalTravel,INV-25515,Feb
+EXP-5047,2025-02-09 00:00:00,Sales,Equipment,Equipment expense - Sales,115497,Bank Transfer,Yes,159511,44014,PrintZone,INV-22223,Feb
+EXP-5048,2025-02-21 00:00:00,Sales,Software,Software expense - Sales,3680,Bank Transfer,Yes,4485,805,AdPro Media,INV-81260,Feb
+EXP-5049,2025-02-24 00:00:00,Sales,Software,Software expense - Sales,39473,Bank Transfer,Yes,47020,7547,PowerGrid Co,INV-34452,Feb
+EXP-5050,2025-02-10 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,5845,Bank Transfer,No,8469,2624,PrintZone,INV-59559,Feb
+EXP-5051,2025-02-03 00:00:00,Sales,Training,Training expense - Sales,24602,Bank Transfer,Yes,25239,637,AdPro Media,INV-23555,Feb
+EXP-5052,2025-02-05 00:00:00,HR,Consulting,Consulting expense - HR,166210,Cash,Yes,176406,10196,CloudSoft,INV-22160,Feb
+EXP-5053,2025-02-27 00:00:00,HR,Software,Software expense - HR,34390,Bank Transfer,Yes,48913,14523,QuickTravel,INV-74361,Feb
+EXP-5054,2025-02-21 00:00:00,HR,Travel,Travel expense - HR,59230,Credit Card,Yes,61409,2179,HardwarePro,INV-59185,Feb
+EXP-5055,2025-02-01 00:00:00,Finance,Consulting,Consulting expense - Finance,52232,Bank Transfer,No,56928,4696,AdPro Media,INV-14122,Feb
+EXP-5056,2025-02-16 00:00:00,Finance,Software,Software expense - Finance,24466,Credit Card,Yes,36622,12156,GlobalTravel,INV-43357,Feb
+EXP-5057,2025-02-18 00:00:00,Finance,Software,Software expense - Finance,14638,Credit Card,No,19074,4436,GlobalTravel,INV-29968,Feb
+EXP-5058,2025-02-07 00:00:00,Finance,Office Supplies,Office Supplies expense - Finance,7601,Credit Card,Yes,8988,1387,CloudSoft,INV-38804,Feb
+EXP-5059,2025-02-05 00:00:00,Finance,Software,Software expense - Finance,49693,Cash,Yes,66877,17184,Strategy Consultants,INV-36114,Feb
+EXP-5060,2025-02-10 00:00:00,Operations,Utilities,Utilities expense - Operations,12601,Cheque,Yes,16076,3475,HardwarePro,INV-77194,Feb
+EXP-5061,2025-02-07 00:00:00,Operations,Equipment,Equipment expense - Operations,30304,Cash,Yes,34093,3789,QuickTravel,INV-86499,Feb
+EXP-5062,2025-02-24 00:00:00,Operations,Training,Training expense - Operations,8428,Cheque,Yes,11774,3346,Strategy Consultants,INV-65540,Feb
+EXP-5063,2025-03-04 00:00:00,Engineering,Training,Training expense - Engineering,29735,Cheque,Yes,34474,4739,PrintZone,INV-84336,Mar
+EXP-5064,2025-03-27 00:00:00,Engineering,Utilities,Utilities expense - Engineering,7126,Credit Card,Yes,10325,3199,CloudSoft,INV-14424,Mar
+EXP-5065,2025-03-20 00:00:00,Engineering,Training,Training expense - Engineering,22230,Cash,Yes,26785,4555,TechMart India,INV-25027,Mar
+EXP-5066,2025-03-06 00:00:00,Engineering,Marketing,Marketing expense - Engineering,94588,Cash,Yes,114895,20307,QuickTravel,INV-38204,Mar
+EXP-5067,2025-03-11 00:00:00,Engineering,Utilities,Utilities expense - Engineering,7094,Credit Card,Yes,7608,514,PowerGrid Co,INV-11428,Mar
+EXP-5068,2025-03-26 00:00:00,Engineering,Utilities,Utilities expense - Engineering,4502,Cash,Yes,5550,1048,GlobalTravel,INV-18681,Mar
+EXP-5069,2025-03-17 00:00:00,Engineering,Equipment,Equipment expense - Engineering,42173,Bank Transfer,Yes,54863,12690,GlobalTravel,INV-46444,Mar
+EXP-5070,2025-03-14 00:00:00,Marketing,Software,Software expense - Marketing,39614,Cheque,Yes,57295,17681,PowerGrid Co,INV-35971,Mar
+EXP-5071,2025-03-16 00:00:00,Marketing,Office Supplies,Office Supplies expense - Marketing,906,Credit Card,Yes,1270,364,HardwarePro,INV-25631,Mar
+EXP-5072,2025-03-11 00:00:00,Marketing,Software,Software expense - Marketing,31673,Cheque,Yes,34383,2710,AdPro Media,INV-12787,Mar
+EXP-5073,2025-03-28 00:00:00,Marketing,Training,Training expense - Marketing,3584,Credit Card,Yes,4737,1153,SkillUp Academy,INV-27178,Mar
+EXP-5074,2025-03-17 00:00:00,Marketing,Equipment,Equipment expense - Marketing,9850,Credit Card,Yes,14262,4412,TechMart India,INV-19103,Mar
+EXP-5075,2025-03-14 00:00:00,Marketing,Consulting,Consulting expense - Marketing,34935,Cash,Yes,49430,14495,PowerGrid Co,INV-55327,Mar
+EXP-5076,2025-03-11 00:00:00,Marketing,Equipment,Equipment expense - Marketing,15455,Cheque,No,19755,4300,TechMart India,INV-61554,Mar
+EXP-5077,2025-03-16 00:00:00,Marketing,Training,Training expense - Marketing,25821,Credit Card,Yes,38525,12704,AdPro Media,INV-23466,Mar
+EXP-5078,2025-03-05 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,891,Credit Card,Yes,1259,368,HardwarePro,INV-39667,Mar
+EXP-5079,2025-03-26 00:00:00,Sales,Marketing,Marketing expense - Sales,33073,Cash,No,36234,3161,TechMart India,INV-16880,Mar
+EXP-5080,2025-03-02 00:00:00,Sales,Training,Training expense - Sales,28721,Cash,Yes,29340,619,SkillUp Academy,INV-53165,Mar
+EXP-5081,2025-03-05 00:00:00,HR,Equipment,Equipment expense - HR,40377,Cheque,Yes,54482,14105,CloudSoft,INV-51855,Mar
+EXP-5082,2025-03-22 00:00:00,HR,Marketing,Marketing expense - HR,118342,Credit Card,No,156028,37686,GlobalTravel,INV-41525,Mar
+EXP-5083,2025-03-09 00:00:00,HR,Consulting,Consulting expense - HR,183347,Cash,Yes,228277,44930,PrintZone,INV-22032,Mar
+EXP-5084,2025-03-03 00:00:00,HR,Training,Training expense - HR,28106,Cash,No,32269,4163,PrintZone,INV-96439,Mar
+EXP-5085,2025-03-16 00:00:00,HR,Office Supplies,Office Supplies expense - HR,6193,Credit Card,Yes,6435,242,TechMart India,INV-97883,Mar
+EXP-5086,2025-03-07 00:00:00,HR,Office Supplies,Office Supplies expense - HR,4335,Cheque,Yes,6109,1774,PowerGrid Co,INV-37349,Mar
+EXP-5087,2025-03-23 00:00:00,HR,Utilities,Utilities expense - HR,13459,Cheque,Yes,19814,6355,GlobalTravel,INV-23849,Mar
+EXP-5088,2025-03-13 00:00:00,HR,Marketing,Marketing expense - HR,67353,Cheque,No,98224,30871,GlobalTravel,INV-36610,Mar
+EXP-5089,2025-03-06 00:00:00,Finance,Office Supplies,Office Supplies expense - Finance,1062,Cash,No,1210,148,QuickTravel,INV-29305,Mar
+EXP-5090,2025-03-08 00:00:00,Finance,Consulting,Consulting expense - Finance,38094,Credit Card,Yes,52285,14191,CloudSoft,INV-44964,Mar
+EXP-5091,2025-03-15 00:00:00,Finance,Travel,Travel expense - Finance,67421,Cash,Yes,89733,22312,QuickTravel,INV-82129,Mar
+EXP-5092,2025-03-05 00:00:00,Finance,Software,Software expense - Finance,25227,Cheque,No,30669,5442,HardwarePro,INV-76574,Mar
+EXP-5093,2025-03-12 00:00:00,Finance,Utilities,Utilities expense - Finance,1870,Credit Card,Yes,2283,413,HardwarePro,INV-65389,Mar
+EXP-5094,2025-03-06 00:00:00,Finance,Office Supplies,Office Supplies expense - Finance,2908,Cash,No,3183,275,AdPro Media,INV-74699,Mar
+EXP-5095,2025-03-21 00:00:00,Operations,Equipment,Equipment expense - Operations,19311,Bank Transfer,Yes,25888,6577,PrintZone,INV-25097,Mar
+EXP-5096,2025-03-08 00:00:00,Operations,Travel,Travel expense - Operations,9677,Credit Card,No,12460,2783,QuickTravel,INV-46105,Mar
+EXP-5097,2025-03-23 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,7730,Cheque,Yes,10127,2397,HardwarePro,INV-23278,Mar
+EXP-5098,2025-03-23 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,6512,Cash,Yes,9195,2683,PrintZone,INV-32417,Mar
+EXP-5099,2025-03-23 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,3347,Cash,Yes,4413,1066,QuickTravel,INV-34258,Mar
+EXP-5100,2025-03-23 00:00:00,Operations,Consulting,Consulting expense - Operations,90038,Bank Transfer,Yes,128420,38382,PowerGrid Co,INV-99318,Mar
+EXP-5101,2025-03-15 00:00:00,Operations,Software,Software expense - Operations,12921,Bank Transfer,Yes,14131,1210,Strategy Consultants,INV-66088,Mar
+EXP-5102,2025-04-03 00:00:00,Engineering,Travel,Travel expense - Engineering,28267,Bank Transfer,Yes,42038,13771,AdPro Media,INV-56156,Apr
+EXP-5103,2025-04-28 00:00:00,Engineering,Consulting,Consulting expense - Engineering,162871,Bank Transfer,Yes,162953,82,QuickTravel,INV-15921,Apr
+EXP-5104,2025-04-10 00:00:00,Engineering,Travel,Travel expense - Engineering,79352,Bank Transfer,No,106334,26982,GlobalTravel,INV-31928,Apr
+EXP-5105,2025-04-26 00:00:00,Engineering,Marketing,Marketing expense - Engineering,34617,Cash,Yes,36348,1731,Strategy Consultants,INV-55977,Apr
+EXP-5106,2025-04-12 00:00:00,Engineering,Training,Training expense - Engineering,24738,Cheque,Yes,30755,6017,PowerGrid Co,INV-49470,Apr
+EXP-5107,2025-04-28 00:00:00,Marketing,Utilities,Utilities expense - Marketing,9484,Cheque,Yes,13157,3673,SkillUp Academy,INV-99887,Apr
+EXP-5108,2025-04-28 00:00:00,Marketing,Travel,Travel expense - Marketing,24385,Bank Transfer,Yes,36317,11932,PowerGrid Co,INV-75251,Apr
+EXP-5109,2025-04-23 00:00:00,Marketing,Travel,Travel expense - Marketing,37029,Cheque,Yes,47723,10694,PrintZone,INV-21701,Apr
+EXP-5110,2025-04-09 00:00:00,Marketing,Office Supplies,Office Supplies expense - Marketing,3594,Cheque,No,4742,1148,CloudSoft,INV-44774,Apr
+EXP-5111,2025-04-14 00:00:00,Marketing,Utilities,Utilities expense - Marketing,6426,Cash,Yes,7682,1256,PrintZone,INV-15387,Apr
+EXP-5112,2025-04-14 00:00:00,Marketing,Utilities,Utilities expense - Marketing,14667,Cheque,No,19158,4491,PowerGrid Co,INV-47802,Apr
+EXP-5113,2025-04-22 00:00:00,Marketing,Software,Software expense - Marketing,2546,Bank Transfer,Yes,3181,635,CloudSoft,INV-78575,Apr
+EXP-5114,2025-04-06 00:00:00,Marketing,Training,Training expense - Marketing,23440,Cash,Yes,29981,6541,SkillUp Academy,INV-18469,Apr
+EXP-5115,2025-04-10 00:00:00,Sales,Travel,Travel expense - Sales,64488,Credit Card,Yes,65808,1320,Strategy Consultants,INV-50084,Apr
+EXP-5116,2025-04-27 00:00:00,Sales,Travel,Travel expense - Sales,61403,Credit Card,Yes,72218,10815,SkillUp Academy,INV-28051,Apr
+EXP-5117,2025-04-17 00:00:00,Sales,Utilities,Utilities expense - Sales,5641,Bank Transfer,Yes,7856,2215,SkillUp Academy,INV-28696,Apr
+EXP-5118,2025-04-03 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,4039,Cash,Yes,5221,1182,TechMart India,INV-72020,Apr
+EXP-5119,2025-04-21 00:00:00,Sales,Utilities,Utilities expense - Sales,5075,Cheque,Yes,7135,2060,HardwarePro,INV-22863,Apr
+EXP-5120,2025-04-19 00:00:00,HR,Training,Training expense - HR,22563,Cheque,Yes,26069,3506,AdPro Media,INV-28242,Apr
+EXP-5121,2025-04-18 00:00:00,HR,Office Supplies,Office Supplies expense - HR,2548,Bank Transfer,Yes,2721,173,SkillUp Academy,INV-21219,Apr
+EXP-5122,2025-04-15 00:00:00,HR,Training,Training expense - HR,21568,Bank Transfer,Yes,31566,9998,HardwarePro,INV-22588,Apr
+EXP-5123,2025-04-11 00:00:00,HR,Marketing,Marketing expense - HR,148037,Cash,Yes,180746,32709,PowerGrid Co,INV-66055,Apr
+EXP-5124,2025-04-15 00:00:00,HR,Consulting,Consulting expense - HR,120233,Credit Card,No,178032,57799,TechMart India,INV-65170,Apr
+EXP-5125,2025-04-19 00:00:00,Finance,Marketing,Marketing expense - Finance,89269,Cash,Yes,124380,35111,AdPro Media,INV-81207,Apr
+EXP-5126,2025-04-13 00:00:00,Finance,Training,Training expense - Finance,4754,Bank Transfer,Yes,6549,1795,TechMart India,INV-70661,Apr
+EXP-5127,2025-04-09 00:00:00,Finance,Consulting,Consulting expense - Finance,24246,Credit Card,Yes,25272,1026,AdPro Media,INV-22766,Apr
+EXP-5128,2025-04-02 00:00:00,Operations,Consulting,Consulting expense - Operations,191034,Credit Card,No,222680,31646,GlobalTravel,INV-16949,Apr
+EXP-5129,2025-04-24 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,4729,Cheque,Yes,5070,341,PrintZone,INV-98562,Apr
+EXP-5130,2025-04-24 00:00:00,Operations,Marketing,Marketing expense - Operations,88877,Credit Card,Yes,116795,27918,AdPro Media,INV-36306,Apr
+EXP-5131,2025-04-20 00:00:00,Operations,Software,Software expense - Operations,6400,Credit Card,No,6400,0,QuickTravel,INV-42401,Apr
+EXP-5132,2025-04-27 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,1348,Cheque,Yes,1667,319,TechMart India,INV-25966,Apr
+EXP-5133,2025-05-27 00:00:00,Engineering,Equipment,Equipment expense - Engineering,68402,Bank Transfer,No,102011,33609,SkillUp Academy,INV-90315,May
+EXP-5134,2025-05-14 00:00:00,Engineering,Consulting,Consulting expense - Engineering,182532,Bank Transfer,Yes,238858,56326,CloudSoft,INV-28571,May
+EXP-5135,2025-05-23 00:00:00,Engineering,Office Supplies,Office Supplies expense - Engineering,1898,Bank Transfer,Yes,2383,485,Strategy Consultants,INV-48015,May
+EXP-5136,2025-05-19 00:00:00,Engineering,Training,Training expense - Engineering,24873,Cheque,Yes,26117,1244,SkillUp Academy,INV-61273,May
+EXP-5137,2025-05-15 00:00:00,Engineering,Equipment,Equipment expense - Engineering,96442,Cheque,Yes,135012,38570,CloudSoft,INV-13666,May
+EXP-5138,2025-05-01 00:00:00,Marketing,Consulting,Consulting expense - Marketing,41490,Cash,Yes,53195,11705,AdPro Media,INV-68258,May
+EXP-5139,2025-05-15 00:00:00,Marketing,Travel,Travel expense - Marketing,51494,Cheque,Yes,76283,24789,TechMart India,INV-30750,May
+EXP-5140,2025-05-17 00:00:00,Marketing,Utilities,Utilities expense - Marketing,9202,Bank Transfer,Yes,13140,3938,GlobalTravel,INV-61199,May
+EXP-5141,2025-05-12 00:00:00,Marketing,Software,Software expense - Marketing,13435,Cash,Yes,17841,4406,CloudSoft,INV-46482,May
+EXP-5142,2025-05-27 00:00:00,Marketing,Training,Training expense - Marketing,15908,Cheque,Yes,16451,543,Strategy Consultants,INV-89408,May
+EXP-5143,2025-05-17 00:00:00,Sales,Marketing,Marketing expense - Sales,142901,Cash,Yes,198304,55403,PowerGrid Co,INV-87182,May
+EXP-5144,2025-05-13 00:00:00,Sales,Utilities,Utilities expense - Sales,10576,Credit Card,Yes,13841,3265,TechMart India,INV-30863,May
+EXP-5145,2025-05-16 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,1290,Cheque,Yes,1719,429,PrintZone,INV-41013,May
+EXP-5146,2025-05-13 00:00:00,Sales,Software,Software expense - Sales,13403,Cheque,Yes,18283,4880,TechMart India,INV-90203,May
+EXP-5147,2025-05-24 00:00:00,Sales,Training,Training expense - Sales,6751,Credit Card,Yes,6877,126,PowerGrid Co,INV-89499,May
+EXP-5148,2025-05-23 00:00:00,Sales,Travel,Travel expense - Sales,27815,Cheque,Yes,32282,4467,CloudSoft,INV-93544,May
+EXP-5149,2025-05-15 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,2103,Cash,Yes,2368,265,PrintZone,INV-31245,May
+EXP-5150,2025-05-26 00:00:00,Sales,Equipment,Equipment expense - Sales,111671,Bank Transfer,Yes,141182,29511,AdPro Media,INV-13177,May
+EXP-5151,2025-05-05 00:00:00,HR,Software,Software expense - HR,15339,Credit Card,Yes,15594,255,HardwarePro,INV-84487,May
+EXP-5152,2025-05-24 00:00:00,HR,Software,Software expense - HR,24328,Cheque,Yes,26582,2254,PrintZone,INV-84759,May
+EXP-5153,2025-05-20 00:00:00,HR,Consulting,Consulting expense - HR,141294,Bank Transfer,Yes,166169,24875,Strategy Consultants,INV-66034,May
+EXP-5154,2025-05-03 00:00:00,HR,Equipment,Equipment expense - HR,119553,Bank Transfer,No,123789,4236,SkillUp Academy,INV-23226,May
+EXP-5155,2025-05-20 00:00:00,HR,Software,Software expense - HR,34683,Cash,Yes,38681,3998,PrintZone,INV-47997,May
+EXP-5156,2025-05-03 00:00:00,HR,Training,Training expense - HR,15793,Bank Transfer,Yes,21346,5553,QuickTravel,INV-80047,May
+EXP-5157,2025-05-20 00:00:00,HR,Office Supplies,Office Supplies expense - HR,7489,Cash,Yes,9428,1939,AdPro Media,INV-17424,May
+EXP-5158,2025-05-09 00:00:00,HR,Software,Software expense - HR,40192,Credit Card,Yes,49657,9465,PowerGrid Co,INV-65234,May
+EXP-5159,2025-05-02 00:00:00,Finance,Office Supplies,Office Supplies expense - Finance,3240,Bank Transfer,Yes,4679,1439,GlobalTravel,INV-53202,May
+EXP-5160,2025-05-26 00:00:00,Finance,Travel,Travel expense - Finance,35882,Credit Card,Yes,44737,8855,QuickTravel,INV-64557,May
+EXP-5161,2025-05-05 00:00:00,Finance,Software,Software expense - Finance,38138,Cash,Yes,47268,9130,QuickTravel,INV-14666,May
+EXP-5162,2025-05-12 00:00:00,Finance,Consulting,Consulting expense - Finance,143065,Cheque,Yes,159177,16112,SkillUp Academy,INV-39852,May
+EXP-5163,2025-05-26 00:00:00,Finance,Travel,Travel expense - Finance,12255,Bank Transfer,No,12416,161,AdPro Media,INV-59727,May
+EXP-5164,2025-05-13 00:00:00,Operations,Travel,Travel expense - Operations,77416,Cheque,Yes,96080,18664,HardwarePro,INV-65945,May
+EXP-5165,2025-05-20 00:00:00,Operations,Marketing,Marketing expense - Operations,40299,Cash,Yes,49124,8825,PrintZone,INV-54974,May
+EXP-5166,2025-05-03 00:00:00,Operations,Equipment,Equipment expense - Operations,12592,Credit Card,Yes,14092,1500,HardwarePro,INV-80283,May
+EXP-5167,2025-05-08 00:00:00,Operations,Travel,Travel expense - Operations,6952,Credit Card,Yes,9987,3035,TechMart India,INV-26608,May
+EXP-5168,2025-05-11 00:00:00,Operations,Consulting,Consulting expense - Operations,57341,Cash,No,65443,8102,PrintZone,INV-48327,May
+EXP-5169,2025-05-04 00:00:00,Operations,Marketing,Marketing expense - Operations,114285,Credit Card,Yes,141639,27354,SkillUp Academy,INV-81256,May
+EXP-5170,2025-05-27 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,4554,Cash,Yes,6160,1606,Strategy Consultants,INV-49677,May
+EXP-5171,2025-05-28 00:00:00,Operations,Utilities,Utilities expense - Operations,13782,Bank Transfer,No,17582,3800,SkillUp Academy,INV-51793,May
+EXP-5172,2025-06-14 00:00:00,Engineering,Software,Software expense - Engineering,5538,Cheque,Yes,6498,960,QuickTravel,INV-36680,Jun
+EXP-5173,2025-06-24 00:00:00,Engineering,Marketing,Marketing expense - Engineering,146575,Bank Transfer,Yes,163470,16895,PowerGrid Co,INV-28607,Jun
+EXP-5174,2025-06-21 00:00:00,Engineering,Travel,Travel expense - Engineering,35815,Cheque,Yes,48321,12506,TechMart India,INV-75392,Jun
+EXP-5175,2025-06-13 00:00:00,Engineering,Travel,Travel expense - Engineering,40428,Cash,Yes,46047,5619,TechMart India,INV-46581,Jun
+EXP-5176,2025-06-13 00:00:00,Engineering,Equipment,Equipment expense - Engineering,69927,Cheque,Yes,70586,659,TechMart India,INV-39418,Jun
+EXP-5177,2025-06-14 00:00:00,Engineering,Office Supplies,Office Supplies expense - Engineering,3607,Credit Card,Yes,3940,333,TechMart India,INV-80981,Jun
+EXP-5178,2025-06-25 00:00:00,Engineering,Utilities,Utilities expense - Engineering,1425,Cash,Yes,2073,648,AdPro Media,INV-38382,Jun
+EXP-5179,2025-06-20 00:00:00,Engineering,Travel,Travel expense - Engineering,49688,Cheque,Yes,67719,18031,TechMart India,INV-24314,Jun
+EXP-5180,2025-06-10 00:00:00,Marketing,Equipment,Equipment expense - Marketing,99541,Cheque,Yes,145951,46410,AdPro Media,INV-84488,Jun
+EXP-5181,2025-06-15 00:00:00,Marketing,Training,Training expense - Marketing,8326,Bank Transfer,Yes,12324,3998,TechMart India,INV-46791,Jun
+EXP-5182,2025-06-25 00:00:00,Marketing,Training,Training expense - Marketing,5802,Cash,Yes,8700,2898,AdPro Media,INV-61721,Jun
+EXP-5183,2025-06-22 00:00:00,Marketing,Travel,Travel expense - Marketing,40949,Cash,No,48355,7406,TechMart India,INV-26293,Jun
+EXP-5184,2025-06-27 00:00:00,Marketing,Training,Training expense - Marketing,21626,Cash,Yes,28771,7145,Strategy Consultants,INV-70650,Jun
+EXP-5185,2025-06-02 00:00:00,Marketing,Travel,Travel expense - Marketing,62659,Cash,Yes,62937,278,GlobalTravel,INV-38553,Jun
+EXP-5186,2025-06-03 00:00:00,Marketing,Equipment,Equipment expense - Marketing,12678,Cash,No,16352,3674,GlobalTravel,INV-51160,Jun
+EXP-5187,2025-06-26 00:00:00,Sales,Consulting,Consulting expense - Sales,57134,Cash,Yes,64504,7370,Strategy Consultants,INV-26675,Jun
+EXP-5188,2025-06-28 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,5663,Credit Card,Yes,6157,494,QuickTravel,INV-95799,Jun
+EXP-5189,2025-06-28 00:00:00,Sales,Travel,Travel expense - Sales,29150,Cheque,No,39126,9976,PowerGrid Co,INV-15499,Jun
+EXP-5190,2025-06-09 00:00:00,HR,Office Supplies,Office Supplies expense - HR,998,Cash,Yes,1473,475,PowerGrid Co,INV-80836,Jun
+EXP-5191,2025-06-03 00:00:00,HR,Travel,Travel expense - HR,35762,Cheque,Yes,42016,6254,GlobalTravel,INV-20151,Jun
+EXP-5192,2025-06-12 00:00:00,HR,Office Supplies,Office Supplies expense - HR,2171,Cheque,Yes,2525,354,HardwarePro,INV-47104,Jun
+EXP-5193,2025-06-26 00:00:00,HR,Marketing,Marketing expense - HR,16473,Cash,Yes,19163,2690,HardwarePro,INV-95456,Jun
+EXP-5194,2025-06-10 00:00:00,HR,Utilities,Utilities expense - HR,8711,Credit Card,Yes,12816,4105,PowerGrid Co,INV-15847,Jun
+EXP-5195,2025-06-01 00:00:00,HR,Training,Training expense - HR,7917,Credit Card,No,11527,3610,PrintZone,INV-51039,Jun
+EXP-5196,2025-06-19 00:00:00,HR,Utilities,Utilities expense - HR,4520,Credit Card,Yes,5376,856,HardwarePro,INV-95093,Jun
+EXP-5197,2025-06-19 00:00:00,Finance,Software,Software expense - Finance,16718,Cheque,No,21444,4726,QuickTravel,INV-79174,Jun
+EXP-5198,2025-06-17 00:00:00,Finance,Travel,Travel expense - Finance,66909,Cheque,Yes,88962,22053,SkillUp Academy,INV-35562,Jun
+EXP-5199,2025-06-26 00:00:00,Finance,Training,Training expense - Finance,10996,Cash,Yes,12803,1807,Strategy Consultants,INV-51263,Jun
+EXP-5200,2025-06-24 00:00:00,Operations,Software,Software expense - Operations,47421,Cheque,Yes,53136,5715,QuickTravel,INV-56135,Jun
+EXP-5201,2025-06-20 00:00:00,Operations,Software,Software expense - Operations,25743,Bank Transfer,Yes,34152,8409,HardwarePro,INV-40115,Jun
+EXP-5202,2025-06-14 00:00:00,Operations,Marketing,Marketing expense - Operations,74210,Bank Transfer,No,103020,28810,SkillUp Academy,INV-47602,Jun
+EXP-5203,2025-06-14 00:00:00,Operations,Utilities,Utilities expense - Operations,6142,Cheque,No,6504,362,CloudSoft,INV-85499,Jun
+EXP-5204,2025-06-07 00:00:00,Operations,Consulting,Consulting expense - Operations,175840,Bank Transfer,Yes,253336,77496,TechMart India,INV-31859,Jun
+EXP-5205,2025-06-18 00:00:00,Operations,Software,Software expense - Operations,29435,Cheque,Yes,33311,3876,CloudSoft,INV-14466,Jun
+EXP-5206,2025-06-03 00:00:00,Operations,Equipment,Equipment expense - Operations,8136,Bank Transfer,No,10943,2807,GlobalTravel,INV-60870,Jun
+EXP-5207,2025-06-23 00:00:00,Operations,Equipment,Equipment expense - Operations,51447,Bank Transfer,Yes,54726,3279,QuickTravel,INV-54146,Jun
+EXP-5208,2025-07-24 00:00:00,Engineering,Software,Software expense - Engineering,49328,Cash,Yes,50444,1116,HardwarePro,INV-92684,Jul
+EXP-5209,2025-07-16 00:00:00,Engineering,Consulting,Consulting expense - Engineering,124213,Bank Transfer,Yes,142180,17967,AdPro Media,INV-76764,Jul
+EXP-5210,2025-07-19 00:00:00,Engineering,Software,Software expense - Engineering,11978,Cash,Yes,17342,5364,HardwarePro,INV-52000,Jul
+EXP-5211,2025-07-19 00:00:00,Engineering,Consulting,Consulting expense - Engineering,56326,Cash,Yes,70652,14326,PrintZone,INV-48974,Jul
+EXP-5212,2025-07-17 00:00:00,Engineering,Consulting,Consulting expense - Engineering,99421,Cheque,Yes,101821,2400,PowerGrid Co,INV-60340,Jul
+EXP-5213,2025-07-24 00:00:00,Marketing,Marketing,Marketing expense - Marketing,47538,Bank Transfer,Yes,48535,997,GlobalTravel,INV-46471,Jul
+EXP-5214,2025-07-06 00:00:00,Marketing,Utilities,Utilities expense - Marketing,2629,Credit Card,Yes,3086,457,SkillUp Academy,INV-73784,Jul
+EXP-5215,2025-07-10 00:00:00,Marketing,Consulting,Consulting expense - Marketing,68624,Cash,No,99002,30378,QuickTravel,INV-40366,Jul
+EXP-5216,2025-07-18 00:00:00,Marketing,Training,Training expense - Marketing,7620,Bank Transfer,Yes,7986,366,AdPro Media,INV-15209,Jul
+EXP-5217,2025-07-27 00:00:00,Marketing,Office Supplies,Office Supplies expense - Marketing,554,Credit Card,Yes,689,135,PrintZone,INV-46941,Jul
+EXP-5218,2025-07-05 00:00:00,Sales,Equipment,Equipment expense - Sales,100956,Cheque,Yes,123410,22454,QuickTravel,INV-25720,Jul
+EXP-5219,2025-07-03 00:00:00,Sales,Consulting,Consulting expense - Sales,123315,Bank Transfer,Yes,153728,30413,QuickTravel,INV-56362,Jul
+EXP-5220,2025-07-11 00:00:00,Sales,Software,Software expense - Sales,16577,Bank Transfer,No,22606,6029,PowerGrid Co,INV-46190,Jul
+EXP-5221,2025-07-22 00:00:00,Sales,Consulting,Consulting expense - Sales,175314,Credit Card,Yes,239788,64474,TechMart India,INV-66803,Jul
+EXP-5222,2025-07-11 00:00:00,Sales,Software,Software expense - Sales,48209,Bank Transfer,No,67353,19144,TechMart India,INV-93164,Jul
+EXP-5223,2025-07-13 00:00:00,Sales,Travel,Travel expense - Sales,37232,Bank Transfer,Yes,39780,2548,SkillUp Academy,INV-71618,Jul
+EXP-5224,2025-07-24 00:00:00,Sales,Marketing,Marketing expense - Sales,137010,Cheque,Yes,192764,55754,CloudSoft,INV-36027,Jul
+EXP-5225,2025-07-24 00:00:00,HR,Software,Software expense - HR,35836,Bank Transfer,Yes,51195,15359,HardwarePro,INV-18816,Jul
+EXP-5226,2025-07-23 00:00:00,HR,Consulting,Consulting expense - HR,156207,Bank Transfer,Yes,203945,47738,HardwarePro,INV-44481,Jul
+EXP-5227,2025-07-21 00:00:00,HR,Equipment,Equipment expense - HR,87709,Cash,Yes,113316,25607,GlobalTravel,INV-96106,Jul
+EXP-5228,2025-07-10 00:00:00,HR,Marketing,Marketing expense - HR,88669,Cheque,Yes,125941,37272,HardwarePro,INV-88360,Jul
+EXP-5229,2025-07-04 00:00:00,HR,Utilities,Utilities expense - HR,9903,Bank Transfer,Yes,12284,2381,SkillUp Academy,INV-64997,Jul
+EXP-5230,2025-07-14 00:00:00,HR,Consulting,Consulting expense - HR,95300,Credit Card,Yes,107088,11788,Strategy Consultants,INV-51799,Jul
+EXP-5231,2025-07-23 00:00:00,HR,Software,Software expense - HR,24778,Bank Transfer,Yes,33413,8635,Strategy Consultants,INV-88781,Jul
+EXP-5232,2025-07-10 00:00:00,HR,Equipment,Equipment expense - HR,95075,Cash,No,106240,11165,PrintZone,INV-63609,Jul
+EXP-5233,2025-07-14 00:00:00,Finance,Utilities,Utilities expense - Finance,5286,Cheque,Yes,7070,1784,HardwarePro,INV-62255,Jul
+EXP-5234,2025-07-24 00:00:00,Finance,Training,Training expense - Finance,4790,Bank Transfer,Yes,5433,643,TechMart India,INV-50437,Jul
+EXP-5235,2025-07-06 00:00:00,Finance,Consulting,Consulting expense - Finance,117429,Bank Transfer,Yes,130423,12994,AdPro Media,INV-90052,Jul
+EXP-5236,2025-07-01 00:00:00,Operations,Marketing,Marketing expense - Operations,15221,Cheque,Yes,22453,7232,PowerGrid Co,INV-56229,Jul
+EXP-5237,2025-07-07 00:00:00,Operations,Software,Software expense - Operations,44921,Cash,No,46026,1105,PrintZone,INV-30577,Jul
+EXP-5238,2025-07-10 00:00:00,Operations,Equipment,Equipment expense - Operations,117685,Bank Transfer,Yes,159923,42238,PowerGrid Co,INV-64184,Jul
+EXP-5239,2025-07-01 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,5029,Credit Card,Yes,6873,1844,GlobalTravel,INV-23437,Jul
+EXP-5240,2025-07-06 00:00:00,Operations,Equipment,Equipment expense - Operations,108722,Cash,Yes,135082,26360,TechMart India,INV-40147,Jul
+EXP-5241,2025-08-04 00:00:00,Engineering,Office Supplies,Office Supplies expense - Engineering,776,Cheque,Yes,882,106,CloudSoft,INV-45389,Aug
+EXP-5242,2025-08-24 00:00:00,Engineering,Software,Software expense - Engineering,7015,Cheque,Yes,7274,259,TechMart India,INV-81001,Aug
+EXP-5243,2025-08-26 00:00:00,Engineering,Marketing,Marketing expense - Engineering,35049,Cheque,Yes,47945,12896,AdPro Media,INV-50919,Aug
+EXP-5244,2025-08-01 00:00:00,Engineering,Utilities,Utilities expense - Engineering,7965,Cash,Yes,10005,2040,Strategy Consultants,INV-36563,Aug
+EXP-5245,2025-08-19 00:00:00,Engineering,Software,Software expense - Engineering,19319,Cheque,Yes,28682,9363,SkillUp Academy,INV-66299,Aug
+EXP-5246,2025-08-18 00:00:00,Engineering,Software,Software expense - Engineering,16565,Cash,Yes,24573,8008,SkillUp Academy,INV-79888,Aug
+EXP-5247,2025-08-16 00:00:00,Engineering,Office Supplies,Office Supplies expense - Engineering,3632,Cheque,Yes,3663,31,GlobalTravel,INV-24195,Aug
+EXP-5248,2025-08-01 00:00:00,Engineering,Consulting,Consulting expense - Engineering,68736,Cheque,Yes,88597,19861,Strategy Consultants,INV-58473,Aug
+EXP-5249,2025-08-05 00:00:00,Marketing,Software,Software expense - Marketing,44127,Credit Card,Yes,50980,6853,GlobalTravel,INV-32184,Aug
+EXP-5250,2025-08-19 00:00:00,Marketing,Office Supplies,Office Supplies expense - Marketing,7584,Bank Transfer,Yes,11156,3572,CloudSoft,INV-62847,Aug
+EXP-5251,2025-08-19 00:00:00,Marketing,Consulting,Consulting expense - Marketing,147207,Bank Transfer,Yes,200425,53218,Strategy Consultants,INV-43033,Aug
+EXP-5252,2025-08-27 00:00:00,Marketing,Equipment,Equipment expense - Marketing,45823,Bank Transfer,Yes,62789,16966,PowerGrid Co,INV-84096,Aug
+EXP-5253,2025-08-23 00:00:00,Marketing,Equipment,Equipment expense - Marketing,119219,Bank Transfer,No,119551,332,Strategy Consultants,INV-81511,Aug
+EXP-5254,2025-08-08 00:00:00,Marketing,Consulting,Consulting expense - Marketing,92055,Cash,Yes,136217,44162,Strategy Consultants,INV-77427,Aug
+EXP-5255,2025-08-03 00:00:00,Sales,Software,Software expense - Sales,8884,Cheque,Yes,10775,1891,TechMart India,INV-31245,Aug
+EXP-5256,2025-08-28 00:00:00,Sales,Software,Software expense - Sales,12891,Credit Card,Yes,14163,1272,HardwarePro,INV-74904,Aug
+EXP-5257,2025-08-24 00:00:00,Sales,Marketing,Marketing expense - Sales,147517,Cheque,Yes,183452,35935,TechMart India,INV-48895,Aug
+EXP-5258,2025-08-24 00:00:00,Sales,Software,Software expense - Sales,30539,Cash,No,45744,15205,PowerGrid Co,INV-90622,Aug
+EXP-5259,2025-08-05 00:00:00,Sales,Utilities,Utilities expense - Sales,10237,Cash,No,13565,3328,PrintZone,INV-90478,Aug
+EXP-5260,2025-08-16 00:00:00,Sales,Utilities,Utilities expense - Sales,9509,Cheque,Yes,12383,2874,PowerGrid Co,INV-27739,Aug
+EXP-5261,2025-08-16 00:00:00,Sales,Marketing,Marketing expense - Sales,147462,Credit Card,Yes,200186,52724,HardwarePro,INV-33491,Aug
+EXP-5262,2025-08-01 00:00:00,HR,Consulting,Consulting expense - HR,27576,Cash,Yes,41272,13696,PrintZone,INV-22300,Aug
+EXP-5263,2025-08-20 00:00:00,HR,Consulting,Consulting expense - HR,96778,Cheque,No,101361,4583,CloudSoft,INV-18751,Aug
+EXP-5264,2025-08-08 00:00:00,HR,Utilities,Utilities expense - HR,11425,Cash,Yes,14619,3194,PrintZone,INV-45989,Aug
+EXP-5265,2025-08-14 00:00:00,HR,Training,Training expense - HR,29894,Cash,Yes,43518,13624,AdPro Media,INV-62857,Aug
+EXP-5266,2025-08-04 00:00:00,Finance,Office Supplies,Office Supplies expense - Finance,1134,Bank Transfer,Yes,1470,336,CloudSoft,INV-44463,Aug
+EXP-5267,2025-08-19 00:00:00,Finance,Software,Software expense - Finance,10303,Cheque,Yes,14408,4105,AdPro Media,INV-87616,Aug
+EXP-5268,2025-08-20 00:00:00,Finance,Training,Training expense - Finance,29453,Cheque,Yes,40310,10857,CloudSoft,INV-10350,Aug
+EXP-5269,2025-08-26 00:00:00,Finance,Office Supplies,Office Supplies expense - Finance,2273,Bank Transfer,Yes,2377,104,CloudSoft,INV-72320,Aug
+EXP-5270,2025-08-02 00:00:00,Finance,Travel,Travel expense - Finance,47380,Bank Transfer,No,49223,1843,Strategy Consultants,INV-65758,Aug
+EXP-5271,2025-08-25 00:00:00,Operations,Consulting,Consulting expense - Operations,95744,Credit Card,Yes,110228,14484,GlobalTravel,INV-61543,Aug
+EXP-5272,2025-08-16 00:00:00,Operations,Equipment,Equipment expense - Operations,106439,Cash,Yes,126957,20518,GlobalTravel,INV-51546,Aug
+EXP-5273,2025-08-06 00:00:00,Operations,Software,Software expense - Operations,41674,Cash,Yes,59223,17549,HardwarePro,INV-83464,Aug
+EXP-5274,2025-08-09 00:00:00,Operations,Consulting,Consulting expense - Operations,138475,Credit Card,No,186602,48127,HardwarePro,INV-95471,Aug
+EXP-5275,2025-08-12 00:00:00,Operations,Utilities,Utilities expense - Operations,3916,Cheque,Yes,3966,50,HardwarePro,INV-38020,Aug
+EXP-5276,2025-08-24 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,3633,Credit Card,Yes,4313,680,Strategy Consultants,INV-57315,Aug
+EXP-5277,2025-08-11 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,545,Credit Card,Yes,705,160,SkillUp Academy,INV-75902,Aug
+EXP-5278,2025-08-09 00:00:00,Operations,Travel,Travel expense - Operations,40786,Cheque,Yes,41470,684,TechMart India,INV-43166,Aug
+EXP-5279,2025-09-28 00:00:00,Engineering,Travel,Travel expense - Engineering,79996,Cheque,No,112927,32931,Strategy Consultants,INV-74264,Sep
+EXP-5280,2025-09-21 00:00:00,Engineering,Marketing,Marketing expense - Engineering,134111,Credit Card,Yes,184398,50287,PowerGrid Co,INV-13779,Sep
+EXP-5281,2025-09-05 00:00:00,Engineering,Marketing,Marketing expense - Engineering,56375,Credit Card,Yes,80924,24549,QuickTravel,INV-17346,Sep
+EXP-5282,2025-09-11 00:00:00,Engineering,Consulting,Consulting expense - Engineering,177111,Credit Card,No,240038,62927,SkillUp Academy,INV-35451,Sep
+EXP-5283,2025-09-28 00:00:00,Engineering,Travel,Travel expense - Engineering,48603,Cash,Yes,68950,20347,AdPro Media,INV-58005,Sep
+EXP-5284,2025-09-22 00:00:00,Marketing,Travel,Travel expense - Marketing,57844,Credit Card,Yes,69887,12043,PrintZone,INV-75735,Sep
+EXP-5285,2025-09-15 00:00:00,Marketing,Marketing,Marketing expense - Marketing,79897,Credit Card,Yes,83251,3354,AdPro Media,INV-36041,Sep
+EXP-5286,2025-09-27 00:00:00,Marketing,Equipment,Equipment expense - Marketing,27671,Credit Card,Yes,36461,8790,SkillUp Academy,INV-83473,Sep
+EXP-5287,2025-09-19 00:00:00,Marketing,Utilities,Utilities expense - Marketing,2928,Credit Card,No,3428,500,Strategy Consultants,INV-21555,Sep
+EXP-5288,2025-09-03 00:00:00,Marketing,Software,Software expense - Marketing,7935,Bank Transfer,Yes,8659,724,AdPro Media,INV-92132,Sep
+EXP-5289,2025-09-07 00:00:00,Marketing,Travel,Travel expense - Marketing,27195,Cash,Yes,37920,10725,QuickTravel,INV-42339,Sep
+EXP-5290,2025-09-28 00:00:00,Marketing,Training,Training expense - Marketing,25311,Bank Transfer,Yes,33440,8129,SkillUp Academy,INV-16990,Sep
+EXP-5291,2025-09-19 00:00:00,Sales,Training,Training expense - Sales,8832,Cash,Yes,10064,1232,PrintZone,INV-34673,Sep
+EXP-5292,2025-09-10 00:00:00,Sales,Training,Training expense - Sales,9528,Cash,Yes,10372,844,SkillUp Academy,INV-22112,Sep
+EXP-5293,2025-09-12 00:00:00,Sales,Consulting,Consulting expense - Sales,103101,Cheque,Yes,132933,29832,TechMart India,INV-86706,Sep
+EXP-5294,2025-09-07 00:00:00,Sales,Equipment,Equipment expense - Sales,25408,Cheque,Yes,32242,6834,SkillUp Academy,INV-37190,Sep
+EXP-5295,2025-09-18 00:00:00,Sales,Utilities,Utilities expense - Sales,12463,Cash,Yes,18498,6035,GlobalTravel,INV-37619,Sep
+EXP-5296,2025-09-02 00:00:00,Sales,Training,Training expense - Sales,10151,Credit Card,No,12525,2374,CloudSoft,INV-72286,Sep
+EXP-5297,2025-09-19 00:00:00,HR,Consulting,Consulting expense - HR,163831,Cheque,No,190289,26458,TechMart India,INV-52253,Sep
+EXP-5298,2025-09-01 00:00:00,HR,Software,Software expense - HR,43253,Bank Transfer,Yes,51014,7761,Strategy Consultants,INV-53871,Sep
+EXP-5299,2025-09-06 00:00:00,HR,Utilities,Utilities expense - HR,11614,Cash,Yes,16858,5244,CloudSoft,INV-71189,Sep
+EXP-5300,2025-09-20 00:00:00,HR,Marketing,Marketing expense - HR,15701,Cheque,No,19147,3446,AdPro Media,INV-67012,Sep
+EXP-5301,2025-09-09 00:00:00,Finance,Equipment,Equipment expense - Finance,67072,Cash,No,95044,27972,PowerGrid Co,INV-73249,Sep
+EXP-5302,2025-09-08 00:00:00,Finance,Equipment,Equipment expense - Finance,44344,Credit Card,Yes,45234,890,HardwarePro,INV-45305,Sep
+EXP-5303,2025-09-17 00:00:00,Finance,Equipment,Equipment expense - Finance,82735,Bank Transfer,Yes,83916,1181,AdPro Media,INV-78692,Sep
+EXP-5304,2025-09-05 00:00:00,Finance,Office Supplies,Office Supplies expense - Finance,5152,Cash,Yes,7089,1937,QuickTravel,INV-50537,Sep
+EXP-5305,2025-09-06 00:00:00,Finance,Marketing,Marketing expense - Finance,100728,Cheque,Yes,123831,23103,CloudSoft,INV-36267,Sep
+EXP-5306,2025-09-06 00:00:00,Finance,Marketing,Marketing expense - Finance,88979,Bank Transfer,Yes,102661,13682,HardwarePro,INV-21818,Sep
+EXP-5307,2025-09-28 00:00:00,Finance,Office Supplies,Office Supplies expense - Finance,1762,Cash,Yes,2365,603,Strategy Consultants,INV-30883,Sep
+EXP-5308,2025-09-22 00:00:00,Finance,Utilities,Utilities expense - Finance,2636,Cheque,Yes,3257,621,Strategy Consultants,INV-97613,Sep
+EXP-5309,2025-09-04 00:00:00,Operations,Consulting,Consulting expense - Operations,195132,Cheque,Yes,218815,23683,PowerGrid Co,INV-27501,Sep
+EXP-5310,2025-09-10 00:00:00,Operations,Equipment,Equipment expense - Operations,106352,Cheque,No,123746,17394,HardwarePro,INV-80007,Sep
+EXP-5311,2025-09-24 00:00:00,Operations,Software,Software expense - Operations,24732,Credit Card,Yes,30770,6038,AdPro Media,INV-33351,Sep
+EXP-5312,2025-09-17 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,3523,Credit Card,No,4161,638,AdPro Media,INV-62190,Sep
+EXP-5313,2025-09-16 00:00:00,Operations,Software,Software expense - Operations,44308,Bank Transfer,Yes,49405,5097,PrintZone,INV-49575,Sep
+EXP-5314,2025-09-21 00:00:00,Operations,Equipment,Equipment expense - Operations,17170,Bank Transfer,Yes,20085,2915,CloudSoft,INV-47350,Sep
+EXP-5315,2025-10-02 00:00:00,Engineering,Equipment,Equipment expense - Engineering,93509,Cash,Yes,131907,38398,CloudSoft,INV-31435,Oct
+EXP-5316,2025-10-04 00:00:00,Engineering,Equipment,Equipment expense - Engineering,94435,Cheque,Yes,118863,24428,PowerGrid Co,INV-99923,Oct
+EXP-5317,2025-10-26 00:00:00,Engineering,Software,Software expense - Engineering,44983,Credit Card,Yes,64381,19398,PowerGrid Co,INV-26874,Oct
+EXP-5318,2025-10-16 00:00:00,Engineering,Equipment,Equipment expense - Engineering,94954,Cheque,Yes,116541,21587,TechMart India,INV-49708,Oct
+EXP-5319,2025-10-04 00:00:00,Engineering,Equipment,Equipment expense - Engineering,38901,Cheque,No,53335,14434,PowerGrid Co,INV-72068,Oct
+EXP-5320,2025-10-12 00:00:00,Marketing,Utilities,Utilities expense - Marketing,14830,Credit Card,Yes,18797,3967,HardwarePro,INV-79692,Oct
+EXP-5321,2025-10-05 00:00:00,Marketing,Equipment,Equipment expense - Marketing,119073,Credit Card,Yes,159243,40170,AdPro Media,INV-43795,Oct
+EXP-5322,2025-10-24 00:00:00,Marketing,Office Supplies,Office Supplies expense - Marketing,4718,Cheque,Yes,6635,1917,TechMart India,INV-70917,Oct
+EXP-5323,2025-10-16 00:00:00,Marketing,Training,Training expense - Marketing,4305,Cheque,Yes,4567,262,TechMart India,INV-88555,Oct
+EXP-5324,2025-10-22 00:00:00,Marketing,Utilities,Utilities expense - Marketing,5134,Cash,Yes,6227,1093,GlobalTravel,INV-45027,Oct
+EXP-5325,2025-10-01 00:00:00,Marketing,Marketing,Marketing expense - Marketing,86871,Cheque,Yes,102372,15501,SkillUp Academy,INV-93359,Oct
+EXP-5326,2025-10-02 00:00:00,Marketing,Travel,Travel expense - Marketing,19638,Cheque,Yes,23146,3508,CloudSoft,INV-21016,Oct
+EXP-5327,2025-10-21 00:00:00,Marketing,Software,Software expense - Marketing,10261,Cheque,Yes,13990,3729,SkillUp Academy,INV-55270,Oct
+EXP-5328,2025-10-24 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,7263,Cheque,Yes,10544,3281,QuickTravel,INV-52806,Oct
+EXP-5329,2025-10-24 00:00:00,Sales,Utilities,Utilities expense - Sales,1627,Credit Card,Yes,1746,119,GlobalTravel,INV-20323,Oct
+EXP-5330,2025-10-14 00:00:00,Sales,Utilities,Utilities expense - Sales,11432,Cheque,Yes,15715,4283,CloudSoft,INV-43666,Oct
+EXP-5331,2025-10-26 00:00:00,Sales,Software,Software expense - Sales,30405,Bank Transfer,No,45078,14673,SkillUp Academy,INV-49741,Oct
+EXP-5332,2025-10-12 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,6187,Cheque,Yes,8659,2472,HardwarePro,INV-46016,Oct
+EXP-5333,2025-10-02 00:00:00,Sales,Marketing,Marketing expense - Sales,82575,Cheque,Yes,103283,20708,SkillUp Academy,INV-45740,Oct
+EXP-5334,2025-10-14 00:00:00,HR,Equipment,Equipment expense - HR,32149,Bank Transfer,Yes,32450,301,SkillUp Academy,INV-70613,Oct
+EXP-5335,2025-10-01 00:00:00,HR,Utilities,Utilities expense - HR,2591,Cash,Yes,2878,287,QuickTravel,INV-90135,Oct
+EXP-5336,2025-10-27 00:00:00,HR,Training,Training expense - HR,26860,Cheque,No,36423,9563,HardwarePro,INV-93200,Oct
+EXP-5337,2025-10-18 00:00:00,Finance,Utilities,Utilities expense - Finance,9871,Credit Card,Yes,11791,1920,PowerGrid Co,INV-51896,Oct
+EXP-5338,2025-10-15 00:00:00,Finance,Utilities,Utilities expense - Finance,14477,Cheque,Yes,17694,3217,GlobalTravel,INV-32283,Oct
+EXP-5339,2025-10-22 00:00:00,Finance,Equipment,Equipment expense - Finance,38514,Credit Card,Yes,46273,7759,GlobalTravel,INV-55259,Oct
+EXP-5340,2025-10-17 00:00:00,Finance,Software,Software expense - Finance,15602,Cash,Yes,21437,5835,SkillUp Academy,INV-51331,Oct
+EXP-5341,2025-10-05 00:00:00,Finance,Consulting,Consulting expense - Finance,186816,Bank Transfer,No,230473,43657,PowerGrid Co,INV-84041,Oct
+EXP-5342,2025-10-01 00:00:00,Finance,Equipment,Equipment expense - Finance,59446,Cash,No,89045,29599,Strategy Consultants,INV-40765,Oct
+EXP-5343,2025-10-20 00:00:00,Finance,Equipment,Equipment expense - Finance,75463,Credit Card,Yes,80432,4969,HardwarePro,INV-38613,Oct
+EXP-5344,2025-10-28 00:00:00,Operations,Software,Software expense - Operations,39404,Bank Transfer,Yes,45105,5701,GlobalTravel,INV-63545,Oct
+EXP-5345,2025-10-20 00:00:00,Operations,Utilities,Utilities expense - Operations,13308,Cash,Yes,14757,1449,PowerGrid Co,INV-92611,Oct
+EXP-5346,2025-10-21 00:00:00,Operations,Software,Software expense - Operations,45531,Cash,No,65673,20142,GlobalTravel,INV-79796,Oct
+EXP-5347,2025-10-16 00:00:00,Operations,Equipment,Equipment expense - Operations,34504,Cheque,Yes,49324,14820,Strategy Consultants,INV-30574,Oct
+EXP-5348,2025-11-27 00:00:00,Engineering,Equipment,Equipment expense - Engineering,42802,Cash,Yes,42873,71,CloudSoft,INV-99568,Nov
+EXP-5349,2025-11-14 00:00:00,Engineering,Software,Software expense - Engineering,27123,Cheque,Yes,34991,7868,PrintZone,INV-93416,Nov
+EXP-5350,2025-11-20 00:00:00,Engineering,Travel,Travel expense - Engineering,34385,Credit Card,No,36767,2382,AdPro Media,INV-63578,Nov
+EXP-5351,2025-11-06 00:00:00,Engineering,Travel,Travel expense - Engineering,47601,Cheque,Yes,62115,14514,PowerGrid Co,INV-12977,Nov
+EXP-5352,2025-11-07 00:00:00,Marketing,Equipment,Equipment expense - Marketing,77359,Bank Transfer,Yes,97137,19778,PowerGrid Co,INV-41367,Nov
+EXP-5353,2025-11-07 00:00:00,Marketing,Marketing,Marketing expense - Marketing,133776,Cash,Yes,196459,62683,SkillUp Academy,INV-18495,Nov
+EXP-5354,2025-11-15 00:00:00,Marketing,Travel,Travel expense - Marketing,32132,Bank Transfer,No,41412,9280,Strategy Consultants,INV-41704,Nov
+EXP-5355,2025-11-04 00:00:00,Marketing,Marketing,Marketing expense - Marketing,130954,Cash,Yes,163707,32753,PrintZone,INV-70583,Nov
+EXP-5356,2025-11-22 00:00:00,Marketing,Software,Software expense - Marketing,2451,Cheque,No,3368,917,Strategy Consultants,INV-60504,Nov
+EXP-5357,2025-11-23 00:00:00,Marketing,Software,Software expense - Marketing,29334,Credit Card,No,43379,14045,GlobalTravel,INV-13109,Nov
+EXP-5358,2025-11-02 00:00:00,Marketing,Consulting,Consulting expense - Marketing,136040,Cash,Yes,192344,56304,TechMart India,INV-57628,Nov
+EXP-5359,2025-11-21 00:00:00,Marketing,Equipment,Equipment expense - Marketing,98929,Cheque,Yes,144802,45873,QuickTravel,INV-23582,Nov
+EXP-5360,2025-11-25 00:00:00,Sales,Training,Training expense - Sales,27836,Credit Card,Yes,39322,11486,PowerGrid Co,INV-64118,Nov
+EXP-5361,2025-11-26 00:00:00,Sales,Utilities,Utilities expense - Sales,3325,Cheque,Yes,4843,1518,SkillUp Academy,INV-22730,Nov
+EXP-5362,2025-11-15 00:00:00,Sales,Utilities,Utilities expense - Sales,11519,Cheque,Yes,15514,3995,SkillUp Academy,INV-54884,Nov
+EXP-5363,2025-11-26 00:00:00,Sales,Training,Training expense - Sales,25583,Cheque,Yes,31271,5688,AdPro Media,INV-46083,Nov
+EXP-5364,2025-11-10 00:00:00,HR,Travel,Travel expense - HR,23352,Credit Card,Yes,25080,1728,PowerGrid Co,INV-83864,Nov
+EXP-5365,2025-11-23 00:00:00,HR,Utilities,Utilities expense - HR,12694,Bank Transfer,No,14542,1848,SkillUp Academy,INV-72296,Nov
+EXP-5366,2025-11-24 00:00:00,HR,Consulting,Consulting expense - HR,186495,Bank Transfer,Yes,213992,27497,AdPro Media,INV-48316,Nov
+EXP-5367,2025-11-01 00:00:00,HR,Equipment,Equipment expense - HR,38725,Bank Transfer,No,51054,12329,SkillUp Academy,INV-29446,Nov
+EXP-5368,2025-11-17 00:00:00,HR,Travel,Travel expense - HR,39002,Cheque,Yes,46104,7102,AdPro Media,INV-32335,Nov
+EXP-5369,2025-11-28 00:00:00,HR,Utilities,Utilities expense - HR,11548,Cash,No,12448,900,PowerGrid Co,INV-59542,Nov
+EXP-5370,2025-11-17 00:00:00,HR,Consulting,Consulting expense - HR,179968,Cheque,Yes,195186,15218,Strategy Consultants,INV-59790,Nov
+EXP-5371,2025-11-07 00:00:00,Finance,Software,Software expense - Finance,24437,Bank Transfer,Yes,27184,2747,SkillUp Academy,INV-89775,Nov
+EXP-5372,2025-11-16 00:00:00,Finance,Software,Software expense - Finance,44598,Cheque,No,48990,4392,TechMart India,INV-78697,Nov
+EXP-5373,2025-11-22 00:00:00,Finance,Office Supplies,Office Supplies expense - Finance,6573,Credit Card,Yes,7239,666,QuickTravel,INV-53190,Nov
+EXP-5374,2025-11-18 00:00:00,Operations,Software,Software expense - Operations,19791,Credit Card,Yes,25266,5475,Strategy Consultants,INV-84278,Nov
+EXP-5375,2025-11-24 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,2504,Bank Transfer,Yes,2825,321,PrintZone,INV-69777,Nov
+EXP-5376,2025-11-09 00:00:00,Operations,Marketing,Marketing expense - Operations,20546,Cash,Yes,30607,10061,PrintZone,INV-18345,Nov
+EXP-5377,2025-11-07 00:00:00,Operations,Marketing,Marketing expense - Operations,146985,Bank Transfer,Yes,169236,22251,AdPro Media,INV-86188,Nov
+EXP-5378,2025-11-26 00:00:00,Operations,Consulting,Consulting expense - Operations,131705,Credit Card,Yes,138176,6471,QuickTravel,INV-35745,Nov
+EXP-5379,2025-11-16 00:00:00,Operations,Consulting,Consulting expense - Operations,40515,Bank Transfer,Yes,49467,8952,GlobalTravel,INV-87250,Nov
+EXP-5380,2025-11-19 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,5401,Credit Card,No,6717,1316,HardwarePro,INV-24617,Nov
+EXP-5381,2025-12-26 00:00:00,Engineering,Consulting,Consulting expense - Engineering,178460,Cheque,Yes,195842,17382,SkillUp Academy,INV-63368,Dec
+EXP-5382,2025-12-11 00:00:00,Engineering,Training,Training expense - Engineering,19141,Cheque,No,25181,6040,SkillUp Academy,INV-94578,Dec
+EXP-5383,2025-12-08 00:00:00,Engineering,Training,Training expense - Engineering,11657,Cash,Yes,16712,5055,GlobalTravel,INV-75937,Dec
+EXP-5384,2025-12-25 00:00:00,Engineering,Training,Training expense - Engineering,23510,Bank Transfer,Yes,28683,5173,TechMart India,INV-51839,Dec
+EXP-5385,2025-12-03 00:00:00,Engineering,Consulting,Consulting expense - Engineering,139967,Cheque,Yes,151383,11416,QuickTravel,INV-68090,Dec
+EXP-5386,2025-12-27 00:00:00,Engineering,Utilities,Utilities expense - Engineering,11451,Bank Transfer,Yes,15384,3933,QuickTravel,INV-40382,Dec
+EXP-5387,2025-12-11 00:00:00,Engineering,Office Supplies,Office Supplies expense - Engineering,3016,Cheque,Yes,3773,757,SkillUp Academy,INV-89891,Dec
+EXP-5388,2025-12-11 00:00:00,Engineering,Office Supplies,Office Supplies expense - Engineering,5177,Bank Transfer,Yes,6916,1739,HardwarePro,INV-32515,Dec
+EXP-5389,2025-12-16 00:00:00,Marketing,Marketing,Marketing expense - Marketing,95375,Cheque,Yes,140998,45623,PrintZone,INV-44452,Dec
+EXP-5390,2025-12-10 00:00:00,Marketing,Consulting,Consulting expense - Marketing,89591,Cash,Yes,106201,16610,PowerGrid Co,INV-68944,Dec
+EXP-5391,2025-12-25 00:00:00,Marketing,Training,Training expense - Marketing,16936,Cheque,Yes,21706,4770,HardwarePro,INV-17249,Dec
+EXP-5392,2025-12-05 00:00:00,Marketing,Equipment,Equipment expense - Marketing,51348,Cheque,Yes,67928,16580,TechMart India,INV-36504,Dec
+EXP-5393,2025-12-01 00:00:00,Sales,Training,Training expense - Sales,12659,Cash,Yes,17929,5270,HardwarePro,INV-52688,Dec
+EXP-5394,2025-12-17 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,7032,Cheque,Yes,7788,756,QuickTravel,INV-19755,Dec
+EXP-5395,2025-12-16 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,1814,Cheque,Yes,2109,295,HardwarePro,INV-73837,Dec
+EXP-5396,2025-12-19 00:00:00,Sales,Office Supplies,Office Supplies expense - Sales,2794,Cheque,Yes,4173,1379,QuickTravel,INV-17355,Dec
+EXP-5397,2025-12-15 00:00:00,HR,Utilities,Utilities expense - HR,5522,Cash,Yes,7007,1485,Strategy Consultants,INV-27600,Dec
+EXP-5398,2025-12-24 00:00:00,HR,Software,Software expense - HR,23269,Cheque,Yes,34638,11369,CloudSoft,INV-87307,Dec
+EXP-5399,2025-12-03 00:00:00,HR,Training,Training expense - HR,21811,Cheque,Yes,23992,2181,PowerGrid Co,INV-85069,Dec
+EXP-5400,2025-12-10 00:00:00,HR,Training,Training expense - HR,21241,Credit Card,Yes,26881,5640,QuickTravel,INV-51151,Dec
+EXP-5401,2025-12-07 00:00:00,HR,Utilities,Utilities expense - HR,13659,Bank Transfer,Yes,16704,3045,Strategy Consultants,INV-39842,Dec
+EXP-5402,2025-12-22 00:00:00,HR,Consulting,Consulting expense - HR,104949,Cash,Yes,122424,17475,AdPro Media,INV-13032,Dec
+EXP-5403,2025-12-14 00:00:00,HR,Marketing,Marketing expense - HR,41245,Cheque,Yes,54490,13245,TechMart India,INV-79258,Dec
+EXP-5404,2025-12-19 00:00:00,HR,Travel,Travel expense - HR,72143,Cheque,Yes,85615,13472,GlobalTravel,INV-52869,Dec
+EXP-5405,2025-12-21 00:00:00,Finance,Consulting,Consulting expense - Finance,84094,Credit Card,Yes,108263,24169,AdPro Media,INV-22077,Dec
+EXP-5406,2025-12-17 00:00:00,Finance,Software,Software expense - Finance,36849,Credit Card,No,39764,2915,Strategy Consultants,INV-89958,Dec
+EXP-5407,2025-12-22 00:00:00,Finance,Office Supplies,Office Supplies expense - Finance,6659,Cheque,Yes,6902,243,Strategy Consultants,INV-69151,Dec
+EXP-5408,2025-12-21 00:00:00,Finance,Marketing,Marketing expense - Finance,96620,Cash,Yes,100148,3528,GlobalTravel,INV-66675,Dec
+EXP-5409,2025-12-01 00:00:00,Finance,Travel,Travel expense - Finance,57620,Cheque,Yes,74178,16558,TechMart India,INV-39521,Dec
+EXP-5410,2025-12-28 00:00:00,Finance,Utilities,Utilities expense - Finance,7998,Bank Transfer,No,8600,602,PowerGrid Co,INV-79778,Dec
+EXP-5411,2025-12-25 00:00:00,Finance,Consulting,Consulting expense - Finance,181340,Cash,No,241672,60332,CloudSoft,INV-34752,Dec
+EXP-5412,2025-12-01 00:00:00,Operations,Office Supplies,Office Supplies expense - Operations,3027,Credit Card,Yes,3302,275,GlobalTravel,INV-55681,Dec
+EXP-5413,2025-12-08 00:00:00,Operations,Software,Software expense - Operations,23460,Bank Transfer,Yes,33672,10212,SkillUp Academy,INV-31402,Dec
+EXP-5414,2025-12-07 00:00:00,Operations,Equipment,Equipment expense - Operations,40530,Cash,Yes,45251,4721,CloudSoft,INV-67624,Dec
+EXP-5415,2025-12-28 00:00:00,Operations,Software,Software expense - Operations,26583,Bank Transfer,Yes,26921,338,TechMart India,INV-68564,Dec
