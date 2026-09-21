@@ -1,0 +1,44 @@
+# Excel Temporary Files
+~$*.xlsm
+~$*.xlsx
+*.xlk
+
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS Specific
+.AppleDouble
+.LSOverride
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Python (if used for analysis)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+
+# Node (if used)
+node_modules/
+npm-debug.log
+
+# Environment
+.env
+.env.local
+
+# Backup files
+*.bak
+*.backup
+*~
